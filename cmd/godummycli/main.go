@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"godummy"
+
+	"github.com/mmikulicic/godummy"
 )
 
 func main() {
