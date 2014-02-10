@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(godummy.Foo(24)))
+	fmt.Println(godummy.Foo(24))
 }
